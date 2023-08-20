@@ -6,3 +6,7 @@ Cargo.lock
 # secret stuff
 
 .env
+
+# Added by cargo
+
+/target

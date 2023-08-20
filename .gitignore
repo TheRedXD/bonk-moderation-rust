@@ -1,0 +1,8 @@
+# ignore rust things
+
+target/
+Cargo.lock
+
+# secret stuff
+
+.env
